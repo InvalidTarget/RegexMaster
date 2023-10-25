@@ -137,7 +137,7 @@ class RegexMaster:
 						self.press_enter_to_continue()
 						continue
 					else:
-						return list(set([link[match_group-1] for link in result]))
+						return list(set([link[match_group] for link in result]))
 
 		else:
 			self._logger.warning("REGEX NOT FOUND.")
