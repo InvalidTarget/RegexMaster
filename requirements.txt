@@ -1,9 +1,0 @@
-certifi
-charset-normalizer
-colorama
-idna
-requests
-six
-tqdm
-urllib3
-user-agent
