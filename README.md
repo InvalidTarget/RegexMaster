@@ -5,4 +5,4 @@ It is a global downloader of website data, but first you have to create a specif
 - First install the required packages inside the requirements.txt file.
 - Put inside the links.txt file the data that will be downloaded.
 - Put inside the patterns.txt file the specific regex patterns to extract the data.
-- Run the regexMaster.py file.
+- Run the main.py file.
